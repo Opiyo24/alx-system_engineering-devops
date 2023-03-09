@@ -8,3 +8,4 @@
 7-everybody - Adds execution permissions to owner, group owner and others.
 8-James_Bond - Sets permission to the file hello.
 9-John_Doe - Sets mode for hello.
+10-mirror_permissions - Sets the mode to match olleh.
