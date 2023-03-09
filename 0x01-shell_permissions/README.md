@@ -5,3 +5,4 @@
 4-empty - Creates an empty file called hello.
 5-execute - Adds execute permissions to the owner of the file hello.
 6-multiple_permissions - Adds execute permissions to the owner and group owner and read permissions to others.
+7-everybody - Adds execution permissions to owner, group owner and others.
