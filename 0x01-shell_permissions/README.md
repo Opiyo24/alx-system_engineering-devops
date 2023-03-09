@@ -1,4 +1,4 @@
-0-iam_betty- Switches the current user to the user betty.
+0-iam_betty - Switches the current user to the user betty.
 1-who_am_i -Prints the effective username of the current user.
 2-groups - Prints all the groups the current user is part of.
 3-new_owner - Changes the owner of the file hello to theuser betty.
@@ -16,3 +16,4 @@
 100-change_owner_and_group - Changes owner to vincent and group owner to staff for all files and directories.
 101-symbolic_link_permissions - Changes the owner and the group of _hello to vincent and staff
 102-if_only - Changes the owner of the file hello to betty.
+103-Star_Wars - Plays the Star Wars IV episode in the terminal.
