@@ -7,3 +7,4 @@
 6-multiple_permissions - Adds execute permissions to the owner and group owner and read permissions to others.
 7-everybody - Adds execution permissions to owner, group owner and others.
 8-James_Bond - Sets permission to the file hello.
+9-John_Doe - Sets mode for hello.
