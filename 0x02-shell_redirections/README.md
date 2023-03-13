@@ -7,3 +7,4 @@
 5-firstlines - Displays the first 10 lines of a file.
 6-third_line - Displays the third line of iacta.
 7-file - Displays Best School in \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+8-cwd_state - Save current directpry
