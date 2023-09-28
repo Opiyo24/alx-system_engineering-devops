@@ -1,0 +1,3 @@
+SHELL LOOPS CONDITIONS AND PARSING
+
+Project solutions
