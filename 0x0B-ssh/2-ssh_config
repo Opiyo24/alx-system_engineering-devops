@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#configuration for ssh
+Host 54.175.47.5
+Identityfile ~/.ssh/school
+PasswordAuthentication no
