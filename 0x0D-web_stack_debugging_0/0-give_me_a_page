@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Web stack debugging - starting apache 2
+service apache2 start
